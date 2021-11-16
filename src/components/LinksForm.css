@@ -1,0 +1,23 @@
+
+.container-main {
+  width: max-content;
+align-content: center;
+ float: left;
+ display: flex;
+ 
+   
+}
+
+
+.Select {
+    margin-top: -20px;
+    width: 100%;
+    
+}
+
+
+.Checkbox-terms {
+
+  margin-top: 5px;
+  
+}
